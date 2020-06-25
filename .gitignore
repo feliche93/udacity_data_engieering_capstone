@@ -133,3 +133,7 @@ dwh.cfg
 
 # Local database
 rebuy_momox.db
+
+# Testing
+db_testing.ipynb
+
